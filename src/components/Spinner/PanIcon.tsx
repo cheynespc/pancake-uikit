@@ -1,0 +1,15 @@
+import React from "react";
+import Svg from "../Svg/Svg";
+import { SvgProps } from "../Svg/types";
+
+const Icon: React.FC<SvgProps> = (props) => {
+  return (
+    <Svg viewBox="0 0 32 32" {...props}>
+    <svg height="1" width="1">
+<text x="0" y="200" >.</text>
+</svg>
+    </Svg>
+  );
+};
+
+export default Icon;
