@@ -1,18 +1,18 @@
 import { Colors } from "./types";
 
 export const baseColors = {
-  failure: "#bb0303",
+  failure: "#77b95a",
   primary: "#2a451f",
   primaryBright: "#29aeff",
   primaryDark: "#1d2b53",
   secondary: "#2a451f",
   success: "#14ff00",
-  warning: "#ea9999",
+  warning: "#fffb38",
 };
 
 export const additionalColors = {
   binance: "#F0B90B",
-  overlay: "#ED4B9E",
+  overlay: "#2a451f",
   gold: "#FFC700",
   silver: "#B2B2B2",
   bronze: "#E7974D",
